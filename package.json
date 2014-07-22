@@ -1,10 +1,22 @@
 {
-  "name": "schools",
-  "version": "0.0.1",
-  "dependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-watch": "~0.5.0"
-    "grunt-contrib-uglify": "~0.2.2",
-     "matchdep": "~0.1.2"
+  "name": "school",
+  "version": "0.1.0",
+  "description": "testing",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terewere/bootstrap"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terewere/bootstrap/issues"
+  },
+  "homepage": "https://github.com/terewere/bootstrap",
+  "devDependencies": {
+    "grunt": "^0.4.5"
   }
 }

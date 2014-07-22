@@ -4,7 +4,7 @@ grunt.initConfig({
   uglify: {
     my_target: {
       files: {
-        '_/js/script.js': ['_/components/js/script.js', 'src/input2.js']
+        '_/js/script.js': ['_/components/js/script.js']
       }
     }
   }
